@@ -3,12 +3,7 @@ This script makes it possible to download the transcripts of every video in a pl
 If this script would be useful to you, please consider giving it a shot.
 
 ## Installation
-We now have a much easier way to use this tool, even if you are not a developer.
-This method has just one prerequisite, you must have a Youtube Data API v3 API Key.
-After that, all you have to do is go to the releases page of this repo and download the .exe from the latest version.
-Once you have done this, you may open up the exe and begin transcript-ing!
-
-If you would like to use this tool without the .exe, you must have the following requirements.
+If you would like to use this tool, you must have the following requirements.
 - NodeJS
 - Yarn or NPM. (Not sure of PNPM)
 - Youtube Data API v3 | API Key
